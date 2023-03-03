@@ -1,4 +1,4 @@
-package FirstAssignment.Strings;
+package FirstAssignment.Static;
 
 /**
  * Write a class with 2 static variables, 2 Instance variables, 2 static methods, 2 instance methods and a main method.

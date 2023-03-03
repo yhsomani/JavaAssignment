@@ -1,4 +1,4 @@
-package FirstAssignment.Strings;
+package FirstAssignment.Static;
 
 /**
  * Call static methods in instance methods

@@ -1,4 +1,4 @@
-package FirstAssignment.Strings;
+package FirstAssignment.Static;
 
 /**
  * Print instance variables in static methods
