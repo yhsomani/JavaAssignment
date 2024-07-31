@@ -4,7 +4,8 @@ public static void main(String[] args) {
     //boolean
 boolean bt = true;
         System.out.println(bt);
-        
+        Scanner sc = new Scanner(System.in);
+        int data = sc.nextInt();
         //byte
         byte n;
         n = 127;
